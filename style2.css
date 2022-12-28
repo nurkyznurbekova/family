@@ -1,0 +1,48 @@
+body {
+    font-family: Arial;
+}
+
+header {
+    background-color: #0776A0;
+    width: 959px;
+    height: 101px;
+}
+
+header img{
+    position: absolute;
+    margin: 20px;
+}
+
+a{
+ border-radius: 10px;
+ color: black;
+ background-color: #FFB600;
+ font-size: 36px;
+ position: absolute;
+ margin: 40px 597px 21px 137px;
+ padding: 0px 15px 0px 15px;
+ text-decoration: none;
+}
+
+h1 {
+    padding-left: 250px;
+}
+
+h2 {
+    color: red;
+    font-size: 36px;
+    margin-left: 42px;
+}
+
+footer p {
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+footer {
+    background-color: #0776A0;
+    padding: 10px;
+}
