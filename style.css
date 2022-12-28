@@ -1,0 +1,71 @@
+body {
+    font-family: Arial;
+}
+
+header {
+    background-color: #0776A0;
+    width: 959px;
+    height: 101px;
+}
+
+header img{
+    position: absolute;
+    margin: 20px;
+}
+
+a{
+ border-radius: 10px;
+ color: black;
+ background-color: #FFB600;
+ font-size: 36px;
+ position: absolute;
+ margin: 40px 689px 21px 135px;
+ padding: 0px 5px opx 5px;
+ text-decoration: none;
+}
+
+.zagolovok {
+    font-size: 48px;
+    width: 396px;
+    height: 65px;
+    margin-left: 280px;
+    margin-top:34px ;
+}
+
+p img {
+    margin:15px;
+}
+
+h2 {
+    color: red;
+    font-size: 36px;
+    margin-left: 42px;
+}
+
+ul {
+    list-style: url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+    margin-left: 42px;
+    font-size: 24px;
+}
+
+.party {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    width: 596px;
+    text-align: center;
+    padding: 32px 182px 32px 183px;
+    font-size: 48px;
+}
+
+footer p {
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+footer {
+    background-color: #0776A0;
+    padding: 10px;
+}
